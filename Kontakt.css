@@ -131,4 +131,29 @@
   .u-section-2 .u-sheet-1 {
     min-height: 344px;
   }
+}.u-section-3 .u-sheet-1 {
+  min-height: 168px;
+}
+
+.u-section-3 .u-social-icons-1 {
+  height: 84px;
+  min-height: 16px;
+  width: 273px;
+  min-width: 68px;
+  margin: 42px auto;
+}
+
+.u-section-3 .u-icon-1 {
+  color: rgb(59, 89, 152) !important;
+  height: 100%;
+}
+
+.u-section-3 .u-icon-2 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-3 .u-icon-3 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
 }
